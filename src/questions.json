@@ -1,0 +1,90 @@
+[
+    {
+        "title": "1. In which year JavaScript was developed?",
+        "options": [
+            1993,
+            1994,
+            1995,
+            1998
+        ],
+        "answer": "C"
+    },
+    {
+        "title": "2. Latest HTML standard is:",
+        "options": [
+            "HTML4.0",
+            "HTML5.0",
+            "XML",
+            "SGML"
+        ],
+        "answer": "B"
+    },
+    {
+        "title": "3. Identify the container among the following:",
+        "options": [
+            "<body>",
+            "<select>",
+            "<input>",
+            "Both a and b"
+        ],
+        "answer": "D"
+    },
+    {
+        "title": "4. Identify the empty or void element in HTML",
+        "options": [
+            "<br>",
+            "<h1>",
+            "<p>",
+            "<abbr>"
+        ],
+        "answer": "A"
+    },
+    {
+        "title": "5. CSS stands for",
+        "options": [
+            "Cascading Sheet Styles",
+            "Cascading Style Sheets",
+            "Cascading Special Styles",
+            "Cascading Sheet Shaping"
+        ],
+        "answer": "B"
+    },
+    {
+        "title": "6. Can negative values be allowed in padding property?",
+        "options": [
+            "Yes",
+            "No",
+            "May be",
+            "none of the above"
+        ],
+        "answer": "B"
+    },
+    {
+        "title": "7. In how many ways can CSS be written in?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "C"
+    },
+    {
+        "title": "8. Which HTML tag is used to declare internal CSS? ",
+        "options":["<style>", "<link>", "<script>", "<h1>"],
+        "answer":"A"
+
+    },
+    {
+        "title": "9. How can we select an element with a specific ID in CSS",
+        "options":[".", "#", "*", "$"],
+        "answer":"B"
+        
+    },
+
+    {
+        "title": "10. Which of the following CSS properties specifies the stack order of elements?",
+        "options":["z-index", "overlap", "no such type of property present", "none of the above"],
+        "answer":"A"
+    }
+]
