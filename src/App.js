@@ -5,6 +5,8 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
 
+
+
 const App = () => {
   const [marks, setMarks] = useState(new Array(questions.length).fill(0));
   const [quizEnded, setQuizEnded] = useState(false);
